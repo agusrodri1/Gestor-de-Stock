@@ -3,7 +3,7 @@ Gestor de Stock es una aplicacion sencilla desarrollada en Python para gestionar
 Softwares usados:
 -Python 3.13.3
 -MySQL
--Librerías de Python: `mysql-connector`
+-Librerías de Python: mysql-connector
 
 Instalacion:
 1. Clonar este repositorio
