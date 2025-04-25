@@ -16,7 +16,7 @@ Instalacion:
 3. Instala las dependencias
    pip install mysql-connector-python
 
-4. Configura la base de datos MySQL siguiendo los pasos descritos en el archivo config.example.py.
+4. Configura la base de datos MySQL siguiendo los pasos descritos en el archivo config.py.
 
 5. Actualiza los parámetros con tu configuración de base de datos.
 
